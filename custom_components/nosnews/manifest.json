@@ -2,9 +2,11 @@
   "domain": "nosnews",
   "name": "NosNews",
   "version": "0.0.3",
-  "documentation": "https://github.com/eelcob/nosnews/blob/main/README.md",
+  "documentation": "https://github.com/eelcob/nownews/blob/main/custom_components/nownews/README",
   "dependencies": [],
-  "issue_tracker": "https://github.com/eelcob/nosnews/issues",
   "codeowners": ["@eelcob"],
-  "requirements": ["feedparser==6.0.2"]
+  "requirements": [
+    "feedparser"
+  ],
+  "version": "1.0.18"
 }
