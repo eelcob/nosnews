@@ -1,6 +1,5 @@
 {
   "name": "NOSNews",
   "homeassistant": "2021.4.0",
-  "domains": ["media_player"],
-  "render_readme": true
+  "domains": ["media_player"]
 }
