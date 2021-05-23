@@ -5,8 +5,5 @@
   "documentation": "https://github.com/eelcob/nownews/blob/main/custom_components/nownews/README",
   "dependencies": [],
   "codeowners": ["@eelcob"],
-  "requirements": [
-    "feedparser"
-  ],
-  "version": "1.0.18"
+  "requirements": ["feedparser"]
 }
