@@ -13,6 +13,5 @@ media_player:
       - title
       - entity_picture
       - link
-      - media_link
 
 
