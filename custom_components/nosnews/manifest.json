@@ -4,6 +4,7 @@
   "version": "0.0.3",
   "documentation": "https://github.com/eelcob/nosnews/blob/main/README.md",
   "dependencies": [],
+  "issue_tracker": "https://github.com/eelcob/nosnews/issues",
   "codeowners": ["@eelcob"],
   "requirements": ["feedparser==6.0.2"]
 }
