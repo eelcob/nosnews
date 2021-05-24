@@ -6,5 +6,6 @@
   "issue_tracker": "https://github.com/eelcob/nosnews/issues",
   "dependencies": [],
   "codeowners": ["@eelcob"],
-  "requirements": ["feedparser"]
+  "requirements": ["feedparser"],
+  "iot_class": "cloud_polling"
 }
