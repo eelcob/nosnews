@@ -1,5 +1,5 @@
 [
-  "https://raw.githubusercontent.com/eelcob/nosnews/master/custom_components/feedparser/__init__.py",
-  "https://raw.githubusercontent.com/eelcob/nosnews/master/custom_components/feedparser/manifest.json",
-  "https://raw.githubusercontent.com/eelcob/nosnews/master/custom_components/feedparser/media_player.py"
+  "https://raw.githubusercontent.com/eelcob/nosnews/master/custom_components/nosnews/__init__.py",
+  "https://raw.githubusercontent.com/eelcob/nosnews/master/custom_components/nosnews/manifest.json",
+  "https://raw.githubusercontent.com/eelcob/nosnews/master/custom_components/nosnews/media_player.py"
 ]
